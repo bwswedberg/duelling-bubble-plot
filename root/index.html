@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <script src="../lib/d3.js"></script>
+    <script src="duellingbubbleplot.js"></script>
+    <script src="datagenerator.js"></script>
+    <link rel="stylesheet" type="text/css" href="duellingbubbleplotstyle.css">
+    <title>Some Title</title>
+</head>
+<body>
+    <div id="duellingBubblePlot"></div>
+    <script>
+        duellingBubblePlot('#duellingBubblePlot', dataGenerator(50, 1000)).initDisplay();
+    </script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+/* selects the rect when hovered over g element*/
+#duellingBubblePlot {
+    width: 960px;
+}
+
+#link-button-div {
+    position: relative;
+    display: block;
+    clear: both;
+}
+
+.link-button {
+    background:none!important;
+    border:none;
+    padding:0!important;
+    color: #0000EE;
+    font-family: Helvetica;
+    text-decoration: underline;
+    cursor: pointer;
+    outline: none;
+}
+
+.backgroundPathGroup path {
+    stroke: black;
+    fill: black;
+}
+
+header {
+    position: relative;
+    fill: black;
+    font: 300 25px Helvetica;
+}
+
+#link-button-div-middle {
+    display: inline-block;
+    width: 91%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#title-text-left, #change-button-left{
+    float: left;
+}
+
+#title-text-right, #change-button-right {
+    float: right;
+}
