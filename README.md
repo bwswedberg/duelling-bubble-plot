@@ -1,4 +1,4 @@
-## Summary
+## Duelling Bubble Plot
 This is a bubble plot that compares two subjects by a set of keywords. In the above plot, we are comparing U.S. States based on fruits and veggies.
 
 Check it out live here: [http://bl.ocks.org/bwswedberg/dcde8e183f21a6ffc4d1](http://bl.ocks.org/bwswedberg/dcde8e183f21a6ffc4d1)
